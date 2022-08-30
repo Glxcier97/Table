@@ -3,5 +3,5 @@ local PlaceId = game.PlaceId
 if PlaceId == 2788229376 then
     loadstring(game:HttpGet(https://raw.githubusercontent.com/Glxcier97/Real/main/HellzYba", true))()
 elseif PlaceId == 4520749081 then
-    loadstring(game:HttpGet("ttps://raw.githubusercontent.com/Glxcier97/Da-Hood/main/ScriptL", true))()
+    loadstring(game:HttpGet("ttps://raw.githubusercontent.com/Glxcier97/Da-Hood/main/Script", true))()
 end
